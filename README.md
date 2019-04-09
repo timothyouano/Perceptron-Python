@@ -1,4 +1,7 @@
 # Perceptron-Python
+
+![calculate output](./img/perceptron.gif)
+
 An implemention of a supervised learning artificial intelligence, feed-forward neural network with backpropagation using Python. Supervised in a way that the AI uses a desired output which you yourself input. It's like a baby that you are teaching how to walk and giving instruction if he/she is doing right. Unlike unsupervised learning, you just tell the baby what he/she can do but does not actually point out what is right. This implementation is a single-layer perceptron but you could use to class to generate a multi-layer one.
 
 This perceptron accepts 35 (5x7) inputs for a letter outputting a "CONSONANT" or "VOWEL".
